@@ -11,7 +11,7 @@
 - pip install pycryptodome mutagen
 
 # Usage
-- Copy conv folder and conv.bat into MetCloud music download folder
+- Copy conv folder and conv.bat into NetCloud music download folder
 - Run conv.bat 
 
 # Instructions
