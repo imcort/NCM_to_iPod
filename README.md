@@ -11,8 +11,11 @@
 - pip install pycryptodome mutagen
 
 # Usage
+- Download latest files from Release
 - Copy conv folder and conv.bat into NetCloud music download folder
 - Run conv.bat 
+在Release里下载最新的程序
+![Usage](https://github.com/imcort/NCM_to_iPod/blob/master/directions_cn.jpg)
 
 # Instructions
 - It will convert .ncm to music file and convert .flac to Apple Lossless automatically.
