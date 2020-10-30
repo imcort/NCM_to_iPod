@@ -11,10 +11,12 @@
 - pip install pycryptodome mutagen
 
 # Usage
-- Download latest files from Release
+- Download latest files from [Release](https://github.com/imcort/NCM_to_iPod/releases)
 - Copy conv folder and conv.bat into NetCloud music download folder
 - Run conv.bat 
-在Release里下载最新的程序
+
+# 使用方法
+- 在 [Release](https://github.com/imcort/NCM_to_iPod/releases) 里下载最新的程序
 ![Usage](https://github.com/imcort/NCM_to_iPod/blob/master/directions_cn.jpg)
 
 # Instructions
